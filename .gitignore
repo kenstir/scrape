@@ -2,5 +2,9 @@
 /scrape
 /scrape.exe
 
-# log files
+# log files and other junk
+*~
 *.log
+
+# IDE
+/.vscode/
